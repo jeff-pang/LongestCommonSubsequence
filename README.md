@@ -1,7 +1,7 @@
 ##C# Longest Common Subsequence (LCS)
 
 ###Description
-This is a C# implementation of LCS without recursion. The code is written to be as readable as possible, so at times variables are created simply for the sake of readability. For a detailed explaination on how LCS works see here [jeff-pang.com](http://jeff-pang.com/LongestCommonSubsequence/)
+This is a C# implementation of LCS without recursion. The code is written to be as readable as possible, so at times variables are created simply for the sake of readability. For a detailed explaination on how LCS works see [LCS Tutorial](http://jeff-pang.com/LongestCommonSubsequence/)
 
 The unit test is based on the following input:
 
