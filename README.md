@@ -1,5 +1,7 @@
 ##C# Longest Common Subsequence (LCS)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/crfl6c9wrvdlbhbr?svg=true)](https://ci.appveyor.com/project/jeff-pang/longestcommonsubsequence-1t5i2)
+
 ###Description
 This is a C# implementation of LCS without recursion. The code is written to be as readable as possible, sometimes additional variables are created just for the sake of readability. For a detailed explanation on how LCS works see [LCS Tutorial](http://jeff-pang.com/LongestCommonSubsequence/)
 
